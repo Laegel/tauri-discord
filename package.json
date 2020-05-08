@@ -1,0 +1,11 @@
+{
+  "name": "tauri-discord",
+  "version": "1.0.0",
+  "description": "A simple wrapper around Discord's webapp",
+  "main": "index.js",
+  "author": "Laegel",
+  "license": "MIT",
+  "dependencies": {
+    "tauri": "^0.5.2"
+  }
+}
